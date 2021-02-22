@@ -1,0 +1,6 @@
+[submodule "BattleNations-Research-UI"]
+	path = BattleNations-Research-UI
+	url = https://github.com/Battle-Nations/BattleNations-Research-UI.git
+[submodule "BattleNations-Research-Gameplay"]
+	path = BattleNations-Research-Gameplay
+	url = https://github.com/Battle-Nations/BattleNations-Research-Gameplay.git
